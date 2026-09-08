@@ -2,7 +2,7 @@
 
 # Hey there 👋, I'm Arman Ali
 
-### Senior Shopify Developer | Shopify Plus | Headless Commerce
+### Senior Shopify Developer | Shopify Plus
 
 </div>
 
